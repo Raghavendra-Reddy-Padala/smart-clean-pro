@@ -23,25 +23,25 @@ All colors MUST be HSL for proper theming
     --popover-foreground: 220 15% 8%;
 
     /* Primary Brand - Deep Professional Blue */
-    --primary: 220 85% 16%;
-    --primary-light: 220 75% 25%;
+    --primary: 220 100% 20%;
+    --primary-light: 220 85% 35%;
     --primary-foreground: 0 0% 98%;
-    --primary-hover: 220 85% 12%;
+    --primary-hover: 220 100% 15%;
 
     /* Secondary - Clean Professional Gray */
-    --secondary: 220 12% 95%;
+    --secondary: 210 40% 96%;
     --secondary-foreground: 220 15% 8%;
-    --secondary-hover: 220 12% 92%;
+    --secondary-hover: 210 40% 92%;
 
     /* Muted Tones */
-    --muted: 220 12% 95%;
+    --muted: 210 40% 96%;
     --muted-foreground: 220 8% 46%;
 
-    /* Accent - Premium Green (Clean/Eco) */
-    --accent: 142 76% 36%;
-    --accent-light: 142 60% 45%;
+    /* Accent - Vibrant Orange */
+    --accent: 24 95% 53%;
+    --accent-light: 24 95% 63%;
     --accent-foreground: 0 0% 98%;
-    --accent-hover: 142 76% 30%;
+    --accent-hover: 24 95% 43%;
 
     /* Premium Gold Accents */
     --gold: 45 90% 55%;
